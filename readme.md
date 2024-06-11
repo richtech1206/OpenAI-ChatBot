@@ -6,7 +6,7 @@ This project is a sophisticated chat interface built using Streamlit and powered
 
 ## Video Preview
 
-[![Video Preview](https://github.com/zima-0201/Project-Images/blob/main/video%20preview/Py-OpenAI-ChatBot.jpeg)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-OpenAI-ChatBot.mp4)
+[![Video Preview](https://github.com/zima-0201/Project-Images/blob/main/video%20preview/Py-OpenAI-ChatBot.png)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-OpenAI-ChatBot.mp4)
 
 
 ### Core Features
